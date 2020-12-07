@@ -1,6 +1,6 @@
 # Mini Project Three Cup Monte
 
-This is mini project call Three Cup Monte.
+This is mini project called Three Cup Monte.
 
 Yes we will not see any cup or ball we are going to mimic the game.
 
